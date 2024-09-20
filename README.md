@@ -1,7 +1,7 @@
 # Microbit-Stands
 A holder helps to keep the Microbit in an ergonomic position and prevents shortcircuits  
 
-<img src="Imatges/MicrobitStand.jpg" width="200" /> <img src="Imatges/MicrobitExpanderStand.jpg" width="100" /> <img src="Imatges/MicrobitNeopixelRing.jpg" width="100" />
+<img src="Imatges/MicrobitStand.jpg" width="200" /> <img src="Imatges/MicrobitExpanderStand.jpg" width="150" /> <img src="Imatges/MicrobitNeopixelRing.jpg" width="150" />
 
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
