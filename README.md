@@ -14,6 +14,7 @@ Descripció         | Imatge          | Arxiu STL
 ------------- | ------------- | ------------- 
 Microbit |![](Imatges/StandMicrobit.jpg) | [Microbit](STL/MicrobitStand.stl)
 Microbit Expander |![](Imatges/StandExpansora.png) | [Expander](STL/IO_Expander.stl)
+Stemfie Microbit Expander |![](Imatges/StemfieMicrobit.png) | [Stemfie Expander](STL/MicrobitBaseStemfie.stl)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
