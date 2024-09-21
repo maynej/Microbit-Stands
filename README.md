@@ -1,7 +1,8 @@
 # Micro:bit-Stands
 A holder helps to keep the Microbit in an ergonomic position and prevents shortcircuits  
 
-<img src="Imatges/MicrobitStand.jpg" width="200" /> <img src="Imatges/MicrobitExpanderStand.jpg" width="200" /> <img src="Imatges/MicrobitNeopixelRing.jpg" width="200" />
+<img src="Imatges/MicrobitStand.jpg" width="200" /> <img src="Imatges/MicrobitExpanderStand.jpg" width="200" />
+<img src="Imatges/MicrobitNeopixelRing.jpg" width="200" /> <img src="Imatges/StemfieMicrobit.png" width="200" />
 
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
@@ -14,7 +15,7 @@ Descripció         | Imatge          | Arxiu STL
 ------------- | ------------- | ------------- 
 Microbit |![](Imatges/StandMicrobit.jpg) | [Microbit](STL/MicrobitStand.stl)
 Microbit Expander |![](Imatges/StandExpansora.png) | [Expander](STL/IO_Expander.stl)
-Stemfie Microbit Expander |![](Imatges/StemfieMicrobit.png) | [Stemfie Expander](STL/MicrobitBaseStemfie.stl)
+Stemfie Microbit Expander |![](Imatges/SuportMicrobit.png) | [Stemfie Expander](STL/MicrobitBaseStemfie.stl)
 
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
