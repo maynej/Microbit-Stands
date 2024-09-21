@@ -19,6 +19,7 @@ Stemfie Microbit Expander |![](Imatges/SuportMicrobit.jpg) | [Stemfie Expander](
  
 Exemple d'ús del suport de la placa expansora per Micro:bit https://github.com/maynej/PerotBot
 
+## Llicència
 Creative Commons Attribution-NoComercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)  <img src="Imatges/CC.png" width="100" />
 
 ## QR
