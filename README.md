@@ -7,7 +7,7 @@ A holder helps to keep the Microbit in an ergonomic position and prevents shortc
 
 Realitzat per [Jordi Mayné](https://github.com/maynej) des de Mechatronic Study jordi.mayne@mechatronicstudy.com <img src="Imatges/Logo3senseFons.png" width="50" />
 
-La documentació està disponible també en castellà [en PDF](https://github.com/maynej/Microbit-holders/tree/main/Doc/). 
+La [documentació] en PDF està disponible també en castellà [en PDF](https://github.com/maynej/Microbit-holders/tree/main/Doc/). 
 
 # Arxius per imprimir 
   
